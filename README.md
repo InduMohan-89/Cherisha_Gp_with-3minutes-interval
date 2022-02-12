@@ -1,2 +1,2 @@
-# Cherisha_Gp_with-3minutes-interval
-Game over when time is zero
+# p5.play-boilerplate
+Boiler plate for p5.play
